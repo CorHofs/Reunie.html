@@ -1,0 +1,161 @@
+.body{ 
+background-color: blanchedalmond;  
+}
+
+header {
+color: #FAEBD7;
+text-align: center;
+border-style: solid;
+border-width: thick;
+border-color: #00CED1;
+border-radius: 15%;
+font-family: 'Dancing Script', cursive;
+background-image: url(luchtfoto_reünie.jpg);
+background-size: 110%;
+background-repeat: no repeat;
+background-position: center;
+@media only screen and (max-width: 576px) {
+width: 300px; 
+height: 180px;
+margin-left: 20%;
+}
+@media only screen and (min-width: 577px) {
+width: 400px; 
+height: 240px;
+margin-left: 39%;
+} 
+}
+
+.foto {
+border-style: solid;
+border-color: cornflowerblue;  
+border-radius: 10%;
+margin-left: 24%; 
+@media only screen and (max-width: 576px) {
+width: 100%;
+height:auto;
+border-width: 2px;
+margin-top:10%;
+margin-right: auto;
+margin-bottom: auto;
+margin-left: auto;
+}
+@media only screen and (min-width: 577px) {
+width: 90%;
+height:auto;
+border-width: 10px;
+margin-top: 10%; 
+margin-bottom: 10%;
+margin-left: 5%; 
+} 
+}
+
+a {
+margin-left: 30px;
+}
+
+H1{
+@media only screen and (max-width: 576px) {
+text-align: center;
+}
+@media only screen and (min-width: 577px) {
+text-align: center;
+} 
+}
+
+H5{
+text-align: center;
+}
+
+.audio{
+@media only screen and (max-width: 576px) {
+margin-left: 15%;
+background-color: #B7CEFA;
+}
+@media only screen and (min-width: 577px) {
+margin-left: 42%;
+background-color: #B7CEFA;
+}
+}    
+
+.audio2{
+@media only screen and (max-width: 576px) {
+margin-top: 5%;
+width: 50%;
+height: 25%;
+margin-left: 20%;
+background-color: #B7CEFA;
+}
+@media only screen and (min-width: 577px) {
+margin-top: 1%;
+margin-left: 15%;
+background-color: #B7CEFA;
+}
+}  
+
+iframe{
+@media only screen and (max-width: 576px) {
+margin-left: 12%;
+}
+@media only screen and (min-width: 577px) {
+margin-left: 33%;
+}
+}
+
+p {
+@media only screen and (max-width: 576px) {
+margin-left: 12%;
+margin-right: 5%;
+}
+@media only screen and (min-width: 577px) {
+margin-left: 31%;
+margin-right: 30%;
+}
+}
+
+.top{
+@media only screen and (max-width: 576px) {
+margin-left: 43%;
+}
+@media only screen and (min-width: 577px) {
+margin-left: 48%;
+}
+}
+
+footer{
+color: #000000;
+background-color: #B7CEFA;
+border-style: solid;
+border-width: thick;
+border-color: #00CED1;
+border-radius: 15%;
+font-family: 'Dancing Script', cursive;
+text-align: center;
+@media only screen and (max-width: 576px) {
+width: 200px; 
+height: 120px;
+margin-left: 30%;
+}
+@media only screen and (min-width: 577px) {
+width: 300px; 
+height: 130px;
+margin-left: 42%;
+padding-top: 10px;
+}
+}
+
+.plaatje{
+ @media only screen and (max-width: 576px) {
+width: 35%;
+height: auto;
+margin-left: 33%;
+}
+@media only screen and (min-width: 577px) {
+width: 10%;
+height: auto;
+margin-left: 45%;
+}
+}
+
+
+
